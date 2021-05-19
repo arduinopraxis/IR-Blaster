@@ -31,6 +31,6 @@ see https://github.com/arendst/Tasmota/releases/
 - 7 Resistor SMD 1206 1k (R1, R2, R3, R7, R8, R9, R14)
 - 7 IR LED TSUS 5400 TEL 950nm (LED1 - LED7)
 
-## Case
+## Case 3D Print
 see https://www.thingiverse.com/thing:2412098
 
